@@ -1,6 +1,12 @@
 fastapi
+<<<<<<< HEAD
 uvicorn
 psycopg2-binary
 redis
 pytest
 httpx 
+=======
+uvicorn[standard]
+asyncpg
+sqlalchemy
+>>>>>>> e9cf0e160fcc5ba9b7b332fcdc8fefeb589763c3
